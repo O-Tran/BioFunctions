@@ -38,7 +38,7 @@ This repository is open-source. Feel free to use and modify the scripts for your
 ### Clone the repository:
 
 
-    git clone https://github.com/O-Tran/BioFunction.git
+    git clone https://github.com/O-Tran/BioFunctions.git
     cd BioFunction
 
 ### Install the required packages:
